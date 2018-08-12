@@ -1,0 +1,11 @@
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\bin\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.deps.json
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\bin\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.runtimeconfig.json
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\bin\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.runtimeconfig.dev.json
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\bin\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.dll
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\bin\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.pdb
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.csprojAssemblyReference.cache
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.csproj.CoreCompileInputs.cache
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.AssemblyInfoInputs.cache
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.AssemblyInfo.cs
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.dll
+c:\users\jasiek\source\repos\OxfordDictionaryRedisPolly\OxfordDictionaryRedisPolly\obj\Debug\netcoreapp2.1\OxfordDictionaryRedisPolly.pdb
