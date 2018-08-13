@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace OxfordDictionaryRedisPolly
 {
@@ -28,6 +26,7 @@ namespace OxfordDictionaryRedisPolly
     {
         public List<Derivatives> Derivatives { get; set; }
         public List<Entries> Entries { get; set; }
+        public string LexicalCategory { get; set; }
     }
 
     public class Derivatives
